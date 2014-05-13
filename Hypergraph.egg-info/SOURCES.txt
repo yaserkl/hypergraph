@@ -1,0 +1,12 @@
+setup.py
+Hypergraph.egg-info/PKG-INFO
+Hypergraph.egg-info/SOURCES.txt
+Hypergraph.egg-info/dependency_links.txt
+Hypergraph.egg-info/top_level.txt
+hypergraph/__init__.py
+hypergraph/directedHyperGraph.py
+hypergraph/hyperedge.py
+hypergraph/hypergraph.py
+hypergraph/hypernode.py
+hypergraph/node.py
+hypergraph/undirectedHyperGraph.py
